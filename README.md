@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm **Abid**
 
-💼 Marketing Data Analyst | Specialized in **Consumer Insights & Sales Analytics**  
+💼 Growth-focused Marketer | Marketing Data Analyst | Specialized in **Growth Strategies and Consumer Insights & Sales Analytics**  
 🌎 Based in the United States   
 
 ## 🚀 About Me  
@@ -11,7 +11,7 @@ I’m an **analytical, experiment-driven marketer** with ~3 years of experience 
  📈 Project Management  
  💹 Sales Strategy & Analytics  
 
-I’ve worked across **startups, education, and tech-driven logistics firms**, delivering measurable business outcomes such as ROAS, CAC, CLV, etc. through translating data-driven insights into actionable recommendations that have contributed to enhancing customer experiences and operational efficiency. 
+I’ve worked across **startups, marketing agency, education, and tech-driven logistics firms**, delivering measurable business outcomes such as ROAS, CAC, CLV, etc. through translating data-driven insights into actionable recommendations that have contributed to enhancing customer experiences and operational efficiency. 
 
 Currently, I’m pursuing my **Master’s in Marketing Analytics @ Purdue University**, gaining hands-on expertise with:  
 `SQL` · `R` · `Python` · `Power BI` · `Tableau` · `GA4` · `Alteryx` · `Digital Marketing Strategy` · `Product Design`  
