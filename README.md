@@ -6,7 +6,7 @@
 ## 🚀 About Me  
 I’m an **analytical, experiment-driven marketer** with ~3 years of experience in:
 
- 📊 Digital Marketing & Analytics  
+ 📊 Product Marketing & Analytics  
  🚀 Growth Strategy  
  📈 Project Management  
  💹 Sales Strategy & Analytics  
