@@ -16,7 +16,6 @@ I’ve worked across **startups, software, and marketing agencies**, delivering 
 I hold a **Master’s in Marketing @Purdue University**, gaining hands-on expertise with:  
 `Digital Marketing Strategy` · `Product Design` · `SQL` · `R` · `Python` · `Power BI` · `Tableau` · `GA4` · `Alteryx`
 
---
 
 ## 🛠 Skills Library  
 
@@ -38,7 +37,6 @@ I hold a **Master’s in Marketing @Purdue University**, gaining hands-on expert
 **Productivity & Workflow**  
 📅 Notion | Trello | Slack | Microsoft Teams | Asana  
 
----
 
 ## 📫 Let’s Connect  
 
