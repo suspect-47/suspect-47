@@ -11,12 +11,12 @@ I’m a **product-oriented, experiment-driven marketer** with 3 years of experie
  📈 Project Management  
  💹 Sales Strategy & Analytics  
 
-I’ve worked across **startups, software, and marketing agencies**, delivering measurable business outcomes such as ROAS, CAC, and CLV by translating data-driven insights into actionable recommendations that have enhanced customer experiences and operational efficiency.
+I’ve worked across **startups, software, and marketing agencies**, delivering measurable business outcomes such as ROAS, CAC, and CLV by turning data into actionable recommendations that improve customer experience and operational efficiency.
 
 I hold a **Master’s in Marketing @Purdue University**, gaining hands-on expertise with:  
 `Digital Marketing Strategy` · `Product Design` · `SQL` · `R` · `Python` · `Power BI` · `Tableau` · `GA4` · `Alteryx`
 
----
+--
 
 ## 🛠 Skills Library  
 
