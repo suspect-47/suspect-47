@@ -1,19 +1,19 @@
 # Hi there! 👋 I'm **Abid**
 
 💼 Growth-focused Marketer | Specialized in **Growth Strategies and Consumer Insights & Sales Analytics**  
-🌎 Based in California, United States   
+🌎 Based in San Francisco, California   
 
 ## 🚀 About Me  
-I’m a **product-oriented, experiment-driven marketer** with ~3 years of experience in:
+I’m a **product-oriented, experiment-driven marketer** with 3 years of experience in:
 
  📊 Product Marketing & Analytics  
  🚀 Growth Strategy  
  📈 Project Management  
  💹 Sales Strategy & Analytics  
 
-I’ve worked across **startup, marketing agency, and ed institution**, delivering measurable business outcomes such as ROAS, CAC, CLV, etc. by translating data-driven insights into actionable recommendations that have enhanced customer experiences and operational efficiency. 
+I’ve worked across **startups, software, and marketing agencies**, delivering measurable business outcomes such as ROAS, CAC, and CLV by translating data-driven insights into actionable recommendations that have enhanced customer experiences and operational efficiency.
 
-Currently, I’m pursuing my **Master’s in Marketing Analytics @ Purdue University**, gaining hands-on expertise with:  
+I hold a **Master’s in Marketing @Purdue University**, gaining hands-on expertise with:  
 `Digital Marketing Strategy` · `Product Design` · `SQL` · `R` · `Python` · `Power BI` · `Tableau` · `GA4` · `Alteryx`
 
 ---
