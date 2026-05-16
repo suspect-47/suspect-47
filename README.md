@@ -1,6 +1,6 @@
 # Hi! I am Abid 👋
 
-**Building Hospitality Agent2Agent Communication** **Adoptable solutions on both sides of the business**
+**Building Hospitality Agent2Agent Communication** | **Adoptable solutions on both sides of the business**
 
 SF-based builder & marketer, intensely focused on learning concepts, building AI-native software, and agents, just not lagging behind AI-rev. The urge to build and do something in an area where I am passionate led me to start building the connective tissue myself.
 
